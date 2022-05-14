@@ -1,0 +1,13 @@
+.navbar1 {
+	background-color: #4e5259; 
+}
+
+.imagen1 {
+	width: 100%;
+	object-fit: cover;
+	filter: brightness(90%);
+}
+
+.contenedor {
+	position: relative; text-align: right;
+}
