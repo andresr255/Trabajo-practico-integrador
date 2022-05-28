@@ -1,13 +1,26 @@
 .navbar1 {
-	background-color: #4e5259; 
+	background-color: #4e5259;
+	font-family: calibri;
+	color: white;
+	height: 50px;
 }
 
+	.col {
+		color: #b3b3b3;
+		text-decoration: none;
+		font-size: large;
+		text-align:center;
+	}
+
 .imagen1 {
-	width: 100%;
 	object-fit: cover;
-	filter: brightness(90%);
+	filter: brightness(85%);
 }
 
 .contenedor {
-	position: relative; text-align: right;
+	position: relative; text-align: right; color: white;
+}
+
+.textodeprimeraimagen {
+	position: absolute; bottom: 500px; right: 10px;
 }
